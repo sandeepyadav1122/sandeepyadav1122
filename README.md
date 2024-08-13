@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+![MasterHead](https://cdn.dribbble.com/users/1819197/screenshots/6494306/3.gif)
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
