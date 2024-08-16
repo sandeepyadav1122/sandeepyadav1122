@@ -6,7 +6,13 @@
 I'm Sandeep from India, and I do content on Design and Depolyment. I really enjoy learning languages like Python, as well learning AI/ML. Additionally, I have a keen interest in deployment and business analysis. In my free time, I like video editing, meme creation, and reading articles.
 
 
-Skills: Python / MS Excel / Power BI / Tableau / SQL / Streamlit
+Skills and Exprienses
+>Python
+>Power BI
+>Tableau
+>OpenCv
+>Streamlit
+>SQL
 
 - 🔭 I’m currently working on my own Company 
 - 🌱 I’m currently learning AI /ML 
