@@ -2,8 +2,7 @@
 #### i'm a Computer Science Student
 ![i'm a Bsuiness Development Aanalyst , AI/ML](https://github.com/sandeepyadav1122/sandeepyadav1122/blob/main/my%20Banner.png)
 
-
-I'm Sandeep from India, and I do content on Design and Depolyment. I really enjoy learning languages like Python, as well learning AI/ML. Additionally, I have a keen interest in deployment and business analysis. In my free time, I like video editing, meme creation, and reading articles.
+I do content on Design and Depolyment. I really enjoy learning languages like Python, as well learning AI/ML. Additionally, I have a keen interest in deployment and business analysis. In my free time, I like video editing, meme creation, and reading articles.
 
 
 Skills and Exprienses
