@@ -7,18 +7,19 @@ I'm Sandeep from India, and I do content on Design and Depolyment. I really enjo
 
 
 Skills and Exprienses
->Python
->Power BI
->Tableau
->OpenCv
->Streamlit
->SQL
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🐍 **Python**
+- 📊 **Power BI**
+- 📈 **Tableau**
+- 👁️ **OpenCV**
+- 🌐 **Streamlit**
+- 🛢️ **SQL**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on my own Company 
 - 🌱 I’m currently learning AI /ML 
 - 📫 How to reach me: @sandeepkumarbgp551@gmail.com 
 - ⚡ Fun fact: i'm a meme creator too.😉 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sandeepyadav1122)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/sandeepyadav1122)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Sandeep54063669)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/serious_Ad8112)  
 
