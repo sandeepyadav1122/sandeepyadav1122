@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sandeep Kumar from India.
-#### i'm a Computer Science Student
-![i'm a Bsuiness Development Aanalyst , AI/ML](https://github.com/sandeepyadav1122/sandeepyadav1122/blob/main/my%20Banner.png)
+#### A Curious Student about tech!
+![i'm a Bsuiness Development Aanalyst ](https://github.com/sandeepyadav1122/sandeepyadav1122/blob/main/my%20Banner.png)
 
 I do content on Design and Depolyment. I really enjoy learning languages like Python, as well learning AI/ML. Additionally, I have a keen interest in deployment and business analysis. In my free time, I like video editing, meme creation, and reading articles.
 
